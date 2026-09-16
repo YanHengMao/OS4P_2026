@@ -1,4 +1,4 @@
-ACCELERATION_G = 9.8  # m/s^2
+ACCELERATION_G = 9.80665  # m/s^2
 TIME = 5.0  # seconds
 
 
